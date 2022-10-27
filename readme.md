@@ -1,0 +1,1 @@
+Given an array, find the pair that outputs the largest product, and return that product.
